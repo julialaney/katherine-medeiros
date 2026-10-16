@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Katherine Medeiros"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Page-1.qmd.
+        text: Page 1
+      - href: Page-2.qmd
+        text: Page 2
+      - text: Projects
+        menu:
+          - href: projects/example1.qmd
+            text: Example 1
+          - href: projects/example2.qmd
+            text: Example 2
+
+format:
+  html:
+    code-copy: true
