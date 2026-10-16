@@ -2,6 +2,6 @@
 title: "Home"
 ---
 
-## hi
 
-![](images/cat-laptop.jpg)
+
+![](images/cat-laptop.jpg){width=160%}
