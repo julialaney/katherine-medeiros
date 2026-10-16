@@ -1,0 +1,7 @@
+---
+title: "Home"
+---
+
+## hi
+
+![](images/cat-laptop.jpg)
