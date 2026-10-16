@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Page-1.qmd.
+      - href: Page-1.qmd
         text: Page 1
       - href: Page-2.qmd
         text: Page 2
